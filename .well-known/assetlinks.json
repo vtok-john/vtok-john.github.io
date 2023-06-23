@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "club.vtok.isoboxapplication",
+      "sha256_cert_fingerprints":
+        ["12:D7:3B:AE:9C:72:FD:87:4E:49:CA:5A:6D:61:91:37:99:14:E1:B6:C5:33:8F:2D:57:75:54:D6:75:ED:4C:35"]
+    }
+  }
+]
